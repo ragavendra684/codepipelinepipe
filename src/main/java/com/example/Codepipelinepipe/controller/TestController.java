@@ -13,7 +13,7 @@ public class TestController {
 	}
 
 	@GetMapping("/run")
-	public String getResult() {
+	public String getResult1() {
 		return "Hello apple, i got you";
 	}
 	
